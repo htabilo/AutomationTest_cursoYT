@@ -1,0 +1,13 @@
+
+  {
+    "editor.defaultFormatter": "ms-python.python",
+    "editor.formatOnSave": true,
+    "python.formatting.provider": "autopep8",
+    "python.testing.pytestArgs": [
+      "."
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+ }
+
+    
